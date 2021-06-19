@@ -1,0 +1,26 @@
+.texto {
+    color: rgba(32, 5, 63, 0.363);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    size: 100px;
+    margin-left: 15px;
+    margin-top: 40px;
+    margin-bottom: 70px;
+}
+
+div { 
+    text-align: center;
+}
+
+input {
+    color:turquoise;
+    border-radius: 20px;
+    border-color:rgb(153, 157, 211);
+    padding: 5px;
+}
+
+button {
+color: rgb(63, 10, 112);
+border-radius: 10px;
+border-color: transparent;
+}
